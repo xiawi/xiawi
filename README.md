@@ -6,9 +6,26 @@
 - 🖨️ ft_printf: copying the C printf function
 
 Personal:
-- 🌱 sprig-tui - A C-based terminal UI library.
+- 🌱 sprig-tui: A C-based terminal UI library.
 
 # 🥅 Goals
 - 🧑‍💻 Become job-ready for backend/fullstack roles by end of 2025
-- ✍️ Improve technical writing and visual note-taking  
+- ✍️ Improve technical writing and visual note-taking
 - 🌞 Build a consistent daily routine and reduce burnout
+
+# 📊 GitHub Stats:
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=xiawi&theme=dark&show_icons=true&hide=contribs&rank_icon=github" alt="weixiang's GitHub stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiawi&theme=dark&hide=TeX&layout=compact" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
+
