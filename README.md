@@ -3,7 +3,7 @@
 
 # 🤔 Currently Working On
 42KL:
-- 🖨️ ft_printf: copying the C printf function
+- 🖨️ [ft_printf](https://github.com/xiawi/ft_printf): copying the C printf function
 
 Personal:
 - 🌱 sprig-tui: A C-based terminal UI library.
