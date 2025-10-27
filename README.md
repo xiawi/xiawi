@@ -1,5 +1,5 @@
 # 👀 About Me
-👋 Hello! I'm **weixiang**, a current software engineer at [Synexis Asua](https://synexisasia.com/),  a cadet at [42KL](https://42kl.edu.my), and a Computer Science graduate from [Sunway University](https://42kl.edu.my). I started my compsci journey with zero programming background, but quickly fell in love with the process of learning, building, and solving problems.
+👋 Hello! I'm **weixiang**, a current software engineer at [Synexis Asia](https://synexisasia.com/),  a cadet at [42KL](https://42kl.edu.my), and a Computer Science graduate from [Sunway University](https://42kl.edu.my). I started my compsci journey with zero programming background, but quickly fell in love with the process of learning, building, and solving problems.
 
 # 🤔 Currently Working On
 _Nothing here at the moment._
